@@ -10,11 +10,7 @@
         <link id="favicon" rel="shortcut icon" href="f1.png" type="image/x-icon">
 	<link rel="stylesheet" href="css/styles.css" type="text/css" media="screen, projection">
 	<link rel="stylesheet" type="text/css" href="css/scrollbars.css">
-	
-        <!--<link rel="stylesheet" type="text/css" href="css/scrollbars-itunes.css" />-->
-        <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-        <!--[if lte IE 6 ]><script type="text/javascript">window.location.href="ie6/index_ru.html";</script><![endif]-->
-		
+
         <script src="js/jquery.min.js" type="text/javascript"></script>
 	<script src="js/jquery.event.drag-2.0.min.js" type="text/javascript"></script>
 	<script src="js/jquery.ba-resize.min.js" type="text/javascript"></script>
